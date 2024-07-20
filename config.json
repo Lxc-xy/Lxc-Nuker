@@ -1,0 +1,20 @@
+{
+    "token": "bot_token",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "Lxc runs cord",
+            "Lxc owns you",
+            "Lxc was here",
+            "beamed"                                                                   
+        ],
+        "roles_name": [
+            "wizzed by Lxc",
+            "Lxc owns you",
+            "Lxc runs you"
+        ],
+        "messages_content": [
+            "@everyone https://discord.gg/n8V7CvgPNw"
+        ]
+    }
+}
