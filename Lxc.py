@@ -250,7 +250,7 @@ class x444:
     
     def menu(self):
         os.system(f"cls & title x444 Nuker ^| Authenticated as: {__client__.user.name}#{__client__.user.discriminator}")
-        print(x444_art + options + "\n")
+        print(Lxc_art + options + "\n")
         ans = input("{}({}Lxc{}) Option{}:{} ".format("\x1b[0m", "\x1b[38;5;21m", "\x1b[0m", "\x1b[38;5;21m", "\x1b[0m")) 
         
         if ans in ["1", "01"]:
